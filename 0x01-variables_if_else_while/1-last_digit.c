@@ -1,12 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
  * main - function to generate a random number
  *
  * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	int n;
