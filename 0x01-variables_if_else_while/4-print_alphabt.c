@@ -1,14 +1,15 @@
 #include <stdio.h>
+
 /**
  * main - Prints the alphabet without q and e
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
-int lowerCase ='a';
-
-while (lowerCase <='z')
+int lowerCase = 'a';
+while (lowerCase <= 'z')
 {
 if (lowerCase == 'e' || lowerCase == 'q')
 {
